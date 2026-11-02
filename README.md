@@ -15,7 +15,7 @@ This is a simple traffic light project. I made it in Proteus using an Arduino UN
 ## How it works
 Green stays on for 5 seconds, then yellow for 2 seconds, then red for 5 seconds. After that it starts again from green.
 
-##Circuit
+#Circuit
 ![Circuit](circuit.png)
 
 # How to run
